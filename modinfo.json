@@ -6,13 +6,13 @@
 	"authorUrl": "",
 	"versionMajor": 1,
 	"versionMinor": 0,
-	"versionBuild": 0,
+	"versionBuild": 2507030,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "",
 	"steamTestLivePublishedFileId": "",
 	"steamVisibility": 2,
 	"folderName": "TDI_Alchemy",
-	"revisionNumber": 0,
-	"snapshotId": 0,
+	"revisionNumber": 1461964,
+	"snapshotId": 43964,
 	"fileSize": -1755253376
 }
